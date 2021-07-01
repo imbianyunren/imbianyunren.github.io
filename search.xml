@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>中正歷年的課表(108上-109下)</title>
+      <link href="2021/05/06/course/"/>
+      <url>2021/05/06/course/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我大鳳梨田課表"><a href="#我大鳳梨田課表" class="headerlink" title="我大鳳梨田課表"></a>我大鳳梨田課表</h2><a class="btn-beautify button--animated block outline red center larger" href="https://imbianyunren.github.io/course-list/108-1/index.html"   title="108學年度上學期"><i class="fas fa-cat fa-fw"></i><span>108學年度上學期</span></a><a class="btn-beautify button--animated block outline orange center larger" href="https://imbianyunren.github.io/course-list/108-2/index.html"   title="108學年度下學期"><i class="fas fa-cat fa-fw"></i><span>108學年度下學期</span></a><a class="btn-beautify button--animated block outline green center larger" href="https://imbianyunren.github.io/course-list/109-1/index.html"   title="109學年度上學期"><i class="fas fa-cat fa-fw"></i><span>109學年度上學期</span></a><a class="btn-beautify button--animated block outline blue center larger" href="https://imbianyunren.github.io/course-list/109-2/index.html"   title="109學年度下學期"><i class="fas fa-cat fa-fw"></i><span>109學年度下學期</span></a><!-- <a class="btn-beautify button--animated block outline pink center larger" href="https://imbianyunren.github.io/course-list/1101/index.html"   title="110學年度上學期"><i class="fas fa-cat fa-fw"></i><span>110學年度上學期</span></a> --><p>僅作參考用，實際開課以學校為主</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> course </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="2021/05/06/tags/"/>
+      <url>2021/05/06/tags/</url>
+      
+        <content type="html"><![CDATA[<h1 id="默認系列"><a href="#默認系列" class="headerlink" title="默認系列"></a>默認系列</h1><div class="note modern"><p>默認 提示塊標籤</p></div><div class="note default modern"><p>default 提示塊標籤</p></div><div class="note primary modern"><p>primary 提示塊標籤</p></div><div class="note success modern"><p>success 提示塊標籤</p></div><div class="note info modern"><p>info 提示塊標籤</p></div><div class="note warning modern"><p>warning 提示塊標籤</p></div><div class="note danger modern"><p>danger 提示塊標籤</p></div><h1 id="自訂義系列"><a href="#自訂義系列" class="headerlink" title="自訂義系列"></a>自訂義系列</h1><div class="note icon simple"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue icon simple"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon simple"><i class="note-icon fas fa-car-crash"></i><p>小心開車 安全至上</p></div><div class="note red icon simple"><i class="note-icon fas fa-fan"></i><p>這是三片呢？還是四片？</p></div><div class="note orange icon simple"><i class="note-icon fas fa-battery-half"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple icon simple"><i class="note-icon far fa-hand-scissors"></i><p>剪刀石頭布</p></div><div class="note green icon simple"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> tag </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>my gallary</title>
+      <link href="2021/05/03/my-gallary/"/>
+      <url>2021/05/03/my-gallary/</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src='https://scontent.frmq2-1.fna.fbcdn.net/v/t1.6435-9/180633733_3924437177609722_8489023802890036557_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=825194&_nc_ohc=m7YX1oC9saMAX-f8Zk2&_nc_ht=scontent.frmq2-1.fna&oh=eb300165177945511ff109bb4445ea10&oe=60B74863' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">貓貓</div>  <p>卯卯卯卯卯</p>  <a href='/Gallery/cat'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> photo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2021/05/03/hello-world/"/>
+      <url>2021/05/03/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
